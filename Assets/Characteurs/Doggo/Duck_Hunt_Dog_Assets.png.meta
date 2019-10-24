@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: b1b073f04db7cab488403158065b81a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2029670260924804616
+    second: Duck_Hunt_Dog_Assets_0
+  - first:
+      213: 6405283548699990570
+    second: Duck_Hunt_Dog_Assets_1
+  - first:
+      213: -2912069196979474790
+    second: Duck_Hunt_Dog_Assets_2
+  - first:
+      213: -779881687874468692
+    second: Duck_Hunt_Dog_Assets_3
+  - first:
+      213: 4396380543864381804
+    second: Duck_Hunt_Dog_Assets_4
+  - first:
+      213: -2354401501774431507
+    second: Duck_Hunt_Dog_Assets_5
+  - first:
+      213: 7410049649015211241
+    second: Duck_Hunt_Dog_Assets_6
+  - first:
+      213: -6410057088494986722
+    second: Duck_Hunt_Dog_Assets_7
+  - first:
+      213: -1396484737921414652
+    second: Duck_Hunt_Dog_Assets_8
+  - first:
+      213: -723132954999665279
+    second: Duck_Hunt_Dog_Assets_9
+  - first:
+      213: 5781805510367676322
+    second: Duck_Hunt_Dog_Assets_10
+  - first:
+      213: 1833370603276652795
+    second: Duck_Hunt_Dog_Assets_11
+  - first:
+      213: -4570819355353605445
+    second: Duck_Hunt_Dog_Assets_12
+  - first:
+      213: 6090495836069867462
+    second: Duck_Hunt_Dog_Assets_13
+  - first:
+      213: -1087979254617533933
+    second: Duck_Hunt_Dog_Assets_14
+  - first:
+      213: -6718067821562907377
+    second: Duck_Hunt_Dog_Assets_15
+  - first:
+      213: -354131541068996220
+    second: Duck_Hunt_Dog_Assets_16
+  - first:
+      213: 13304690822435930
+    second: Duck_Hunt_Dog_Assets_17
+  - first:
+      213: 1719098911864340384
+    second: Duck_Hunt_Dog_Assets_18
+  - first:
+      213: 8545656731308527809
+    second: Duck_Hunt_Dog_Assets_19
+  - first:
+      213: 4455495568143968015
+    second: Duck_Hunt_Dog_Assets_20
+  - first:
+      213: 211555590589933595
+    second: Duck_Hunt_Dog_Assets_21
+  - first:
+      213: -702658524057049903
+    second: Duck_Hunt_Dog_Assets_22
+  - first:
+      213: 2731919440657828008
+    second: Duck_Hunt_Dog_Assets_23
+  - first:
+      213: 8623040537845238984
+    second: Duck_Hunt_Dog_Assets_24
+  - first:
+      213: 6600537617285590142
+    second: Duck_Hunt_Dog_Assets_25
+  - first:
+      213: -8514889733763441990
+    second: Duck_Hunt_Dog_Assets_26
+  - first:
+      213: 7608354340187415994
+    second: Duck_Hunt_Dog_Assets_27
+  - first:
+      213: -8109763297262223063
+    second: Duck_Hunt_Dog_Assets_28
+  - first:
+      213: 2001836687613417330
+    second: Duck_Hunt_Dog_Assets_29
+  - first:
+      213: -184942618200894127
+    second: Duck_Hunt_Dog_Assets_30
+  - first:
+      213: 9092815242862628800
+    second: Duck_Hunt_Dog_Assets_31
+  - first:
+      213: 9102830903318653510
+    second: Duck_Hunt_Dog_Assets_32
+  - first:
+      213: 2342351293147904112
+    second: Duck_Hunt_Dog_Assets_33
+  - first:
+      213: 4883347721341635862
+    second: Duck_Hunt_Dog_Assets_34
+  - first:
+      213: 5015698310629741957
+    second: Duck_Hunt_Dog_Assets_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5dd8b6210d1bd40ba5fb8c656376d9
+      internalID: 2029670260924804616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 424
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fadacfe1eb2aaa47b51e77c80cf3496
+      internalID: 6405283548699990570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 424
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d420eb3a968f684b8641295a927b226
+      internalID: -2912069196979474790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 424
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a746ea3fd099f44bdc2779e0fc4a02
+      internalID: -779881687874468692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04acf34511801c84394fc11937f563a1
+      internalID: 4396380543864381804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 368
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608d61bf04bbe942b954e9c09aba210
+      internalID: -2354401501774431507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005b2ca0ace97b4cba00bd158ad568e
+      internalID: 7410049649015211241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188fb9ea034771f40832bf64c3c4ec54
+      internalID: -6410057088494986722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 252
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d980abb0ea5324d9cfeb27e179ead4
+      internalID: -1396484737921414652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 176
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6f346acc1041d47a735dbadfbcffb5
+      internalID: -723132954999665279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 176
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f700de71c97d48ab88e47eef9a49f
+      internalID: 5781805510367676322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3ce4ea652e5c4faa35cbf8c8c2f2a
+      internalID: 1833370603276652795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfd9ab7b3abfb447be35f86aa3d5c51
+      internalID: -4570819355353605445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3ff5bc1327824cacc135a9d19bdd1
+      internalID: 6090495836069867462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f2e6e5a6333647bd98b490726c31e
+      internalID: -1087979254617533933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 74
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153fb3cdca35bfe4fac291b1666ad7a3
+      internalID: -6718067821562907377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aae01932e90db408813245964edf91
+      internalID: -354131541068996220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c6f9e762260f4eaebb2ab2f0bedb4
+      internalID: 13304690822435930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 74
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be9fa4304195248afbff5286d9361c
+      internalID: 1719098911864340384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c720363500c6e408555f2b29d3707a
+      internalID: 8545656731308527809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498aa819162989943b194c1624e6cc31
+      internalID: 4455495568143968015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 74
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebde4bb83cf1843ba999e66ab9ae10
+      internalID: 211555590589933595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14124b2a9683f4d4fb795b54ad375079
+      internalID: -702658524057049903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5e1fb431c038a45bdabb5457f968ce
+      internalID: 2731919440657828008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa7a409d20f4148abe6d10a717cb7a
+      internalID: 8623040537845238984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd7601ba9237e4789334ce159da40c
+      internalID: 6600537617285590142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6ef3cf0f0c904f9214e77635aa55a
+      internalID: -8514889733763441990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e438655adcf08b45b068d9369c496b0
+      internalID: 7608354340187415994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c1a272a658b545a7e7066aac3d43b
+      internalID: -8109763297262223063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a7f9bbdcdb6c459382a084e77dd77
+      internalID: 2001836687613417330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482462ef03c0d8445b1036c3bb94ede8
+      internalID: -184942618200894127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c442ac84f797be469b8cfbbfe05d4b2
+      internalID: 9092815242862628800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f433e84c7409b846b3558e7a3ae9bc0
+      internalID: 9102830903318653510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9bf6cbbef0ce44addfc12af53c7aa
+      internalID: 2342351293147904112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee980ef7485ea9469743667ae5d1136
+      internalID: 4883347721341635862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Dog_Assets_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463f1963f492da489bb7d03344654f5
+      internalID: 5015698310629741957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa00919a887a628499f625ec58563f90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

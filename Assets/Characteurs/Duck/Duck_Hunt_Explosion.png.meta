@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 96192f852b75be74595ad032d79e1b23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8475509632247914987
+    second: Duck_Hunt_Explosion_0
+  - first:
+      213: 1301385080270709360
+    second: Duck_Hunt_Explosion_1
+  - first:
+      213: 3212250830747733383
+    second: Duck_Hunt_Explosion_2
+  - first:
+      213: -734574919420997662
+    second: Duck_Hunt_Explosion_3
+  - first:
+      213: -5193484982936176724
+    second: Duck_Hunt_Explosion_4
+  - first:
+      213: -3069271749283133621
+    second: Duck_Hunt_Explosion_5
+  - first:
+      213: -6209873540045093405
+    second: Duck_Hunt_Explosion_6
+  - first:
+      213: 7960122108476131520
+    second: Duck_Hunt_Explosion_7
+  - first:
+      213: 3490480578178195825
+    second: Duck_Hunt_Explosion_8
+  - first:
+      213: 2593827550916154768
+    second: Duck_Hunt_Explosion_9
+  - first:
+      213: -6440941013254743273
+    second: Duck_Hunt_Explosion_10
+  - first:
+      213: -7199852975402368048
+    second: Duck_Hunt_Explosion_11
+  - first:
+      213: 61327654911838499
+    second: Duck_Hunt_Explosion_12
+  - first:
+      213: 2644926413825557586
+    second: Duck_Hunt_Explosion_13
+  - first:
+      213: 1853852303878229023
+    second: Duck_Hunt_Explosion_14
+  - first:
+      213: 1294805863743720809
+    second: Duck_Hunt_Explosion_15
+  - first:
+      213: -765816654175254132
+    second: Duck_Hunt_Explosion_16
+  - first:
+      213: -3338922366215367720
+    second: Duck_Hunt_Explosion_17
+  - first:
+      213: 5031907365933930870
+    second: Duck_Hunt_Explosion_18
+  - first:
+      213: -1016848496403142086
+    second: Duck_Hunt_Explosion_19
+  - first:
+      213: 5598066435838375515
+    second: Duck_Hunt_Explosion_20
+  - first:
+      213: 5366270179714701187
+    second: Duck_Hunt_Explosion_21
+  - first:
+      213: -2950657871507047517
+    second: Duck_Hunt_Explosion_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 42
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf699bb76701b469897343d457acf3
+      internalID: -8475509632247914987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccda3f174540304089a70ec7c26d302
+      internalID: 1301385080270709360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 41
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1153240c5391dd44aaaded74cfc3f09e
+      internalID: 3212250830747733383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 41
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2896c3e481a81d4583cd7564d359d98
+      internalID: -734574919420997662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 41
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d36e8b3d1c9a024992d35b1faf543f7
+      internalID: -5193484982936176724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 41
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6d4bfb875b0541971ac2af8b50e70
+      internalID: -3069271749283133621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 41
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2750beb08c29bc48a01747da84cd63b
+      internalID: -6209873540045093405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 41
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78339b31c5dfedb4cae06389e87a364e
+      internalID: 7960122108476131520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 41
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b955734d7a9d2f4182e133f1a724902
+      internalID: 3490480578178195825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 41
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf4870da5ee694caa7036ba757b7f5
+      internalID: 2593827550916154768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628a468ac4104c04ca1f2e3f6fba7322
+      internalID: 1294805863743720809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 44
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ee608cd96c354c9b2ef40746a80cc
+      internalID: -765816654175254132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 41
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ac79e3da85db34ebe11e27cfb9b203
+      internalID: -1016848496403142086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hunt_Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 41
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b842b1a8697232b4e8e2907400938f46
+      internalID: 5598066435838375515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b93011e37f2b1074bb33489dc6d3017f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
