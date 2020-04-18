@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class State
+public abstract class State : MonoBehaviour
 {
-    public FSM myfsm;
+    public SimpleFSM myfsm;
     public FSMState id;
 
     public State(FSMState myId)

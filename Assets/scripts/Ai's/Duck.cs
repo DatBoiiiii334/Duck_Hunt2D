@@ -12,7 +12,6 @@ public class Duck : MonoBehaviour, Idamagable
     public int DuckHp;
     public float DeathTimer;
     public float speed;
-    public bool notDead;
     public GameObject[] targets;
     //public GameObject BombRadius; //if this charactuer isnt going to use a bombradius, then just add an empty child
 
@@ -23,7 +22,6 @@ public class Duck : MonoBehaviour, Idamagable
     private void Start()
     {
         DuckHp = 1;
-        notDead = true;
         myTarget = Random.Range(0, targets.Length);
         myAnimator = GetComponent<Animator>();
     }
@@ -46,12 +44,6 @@ public class Duck : MonoBehaviour, Idamagable
         if (DuckHp <= 0) {
             enumState = State.Dead;
         }
-        else if (notDead) {
-            enumState = State.MoveTowards;
-        }
-        else {
-            enumState = State.Dead;
-        }
     }
 
     void Fly()
@@ -70,7 +62,6 @@ public class Duck : MonoBehaviour, Idamagable
 
     void BeenKilled()
     {
-        notDead = false;
         StartCoroutine(Dying());
     }
 
@@ -82,7 +73,17 @@ public class Duck : MonoBehaviour, Idamagable
         //BombRadius.SetActive(false);
         myAnimator.SetBool("IsShot", false);
         StopCoroutine(Dying());
-        Destroy(gameObject);
+        //Destroy(gameObject);
+        
+        InPool();
+    }
+
+    public void InPool()
+    {
+        DuckHp = 1;
+        myTarget = Random.Range(0, targets.Length);
+        enumState = State.MoveTowards;
+        transform.gameObject.SetActive(false);
     }
 
     public void GiveDamage(int damage)

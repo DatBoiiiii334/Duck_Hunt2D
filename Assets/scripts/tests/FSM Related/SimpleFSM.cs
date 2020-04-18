@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum FSMState { Idle, Attack }
-public class SimpleFSM : MonoBehaviour
+public enum FSMState { Fly, Die }
+public class SimpleFSM 
 {
     public State currentState;
 
@@ -22,8 +22,7 @@ public class SimpleFSM : MonoBehaviour
 
     public void OnUpdate()
     {
-        
-    currentState?.OnUpdate();
+        currentState?.OnUpdate();
     }
 
     public void SwitchState(FSMState newState)

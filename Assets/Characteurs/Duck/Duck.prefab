@@ -1,79 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &762551900
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 762551901}
-  - component: {fileID: 762551902}
-  m_Layer: 8
-  m_Name: Collider_Body
-  m_TagString: Duck
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &762551901
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762551900}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.34882, y: 0.23426, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6125995279720639311}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &762551902
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762551900}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &889687004401226386
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1660678173410874861}
-  m_Layer: 0
-  m_Name: Filler
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1660678173410874861
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 889687004401226386}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6125995279720639311}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6125995279720639309
 GameObject:
   m_ObjectHideFlags: 0
@@ -87,14 +13,14 @@ GameObject:
   - component: {fileID: 6125995279720639312}
   - component: {fileID: 6125995279720639314}
   - component: {fileID: -71440001729195186}
-  - component: {fileID: 1737674451}
-  m_Layer: 0
+  - component: {fileID: 151731241}
+  m_Layer: 8
   m_Name: Duck
-  m_TagString: DuckParent
+  m_TagString: Duck
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6125995279720639311
 Transform:
   m_ObjectHideFlags: 0
@@ -105,9 +31,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.35}
   m_LocalScale: {x: 4, y: 4, z: 0}
-  m_Children:
-  - {fileID: 762551901}
-  - {fileID: 1660678173410874861}
+  m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -189,7 +113,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -226,7 +150,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &1737674451
+--- !u!114 &151731241
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -235,13 +159,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6125995279720639309}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7ad63e09e6cebf345908dd54cd97c652, type: 3}
+  m_Script: {fileID: 11500000, guid: de86547848b25734c8e4bbcf6e31c1a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enumState: 0
-  DeathTimer: 0.8
-  speed: 3
-  notDead: 0
+  animDuration: 1
+  animBoolName: IsShot
   targets:
   - {fileID: 4768361207583954617, guid: f7e7cf0efc975404e989097e5f57e9f9, type: 3}
   - {fileID: 3525232372369477636, guid: 3ad12cf7f26a40e46b35f58ebd68baeb, type: 3}
@@ -250,4 +172,3 @@ MonoBehaviour:
   - {fileID: 3355790430814773101, guid: d95a5f7d88080a34dbfd85fc6923cfcd, type: 3}
   - {fileID: 7364452259646352808, guid: f4172d87b038efc46b44cfb2e4bede19, type: 3}
   - {fileID: 3280361406536291927, guid: f5dab626f619844428b1550537785d45, type: 3}
-  BombRadius: {fileID: 889687004401226386}
