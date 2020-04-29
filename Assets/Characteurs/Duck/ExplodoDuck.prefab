@@ -153,6 +153,7 @@ GameObject:
   - component: {fileID: 6609524104029521150}
   - component: {fileID: 6609524104029521149}
   - component: {fileID: 1671242378}
+  - component: {fileID: 394312711}
   m_Layer: 0
   m_Name: ExplodoDuck
   m_TagString: DuckParent
@@ -291,3 +292,26 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &394312711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6609524104029521147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cc790bc524151441a096798522e483c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targets:
+  - {fileID: 4768361207583954617, guid: f7e7cf0efc975404e989097e5f57e9f9, type: 3}
+  - {fileID: 3525232372369477636, guid: 3ad12cf7f26a40e46b35f58ebd68baeb, type: 3}
+  - {fileID: 2582355041695151415, guid: d45822c4aee64de449bdd8a9ee096b95, type: 3}
+  - {fileID: 5985884205607986048, guid: 913e13e6b651437409de4cb22b859456, type: 3}
+  - {fileID: 3355790430814773101, guid: d95a5f7d88080a34dbfd85fc6923cfcd, type: 3}
+  - {fileID: 7364452259646352808, guid: f4172d87b038efc46b44cfb2e4bede19, type: 3}
+  - {fileID: 3280361406536291927, guid: f5dab626f619844428b1550537785d45, type: 3}
+  myAnimator: {fileID: 0}
+  currentHealth: 0
+  speed: 0
